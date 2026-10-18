@@ -1,4 +1,4 @@
-name: Build DEMON APK
+name: Ikechukwu Diamond 
 
 on:
   workflow_dispatch:
